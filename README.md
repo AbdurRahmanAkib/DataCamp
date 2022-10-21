@@ -12,4 +12,4 @@
 ---
 ## **Courses Completed :**
 
-1. [course name](link)
+1. [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/f53b006629932353f4361d6d3b45cc6b1ed50c27)
